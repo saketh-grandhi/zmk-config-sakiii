@@ -1,0 +1,4 @@
+name: zmk-keyboard-saki
+build:
+  settings:
+    board_root: .
